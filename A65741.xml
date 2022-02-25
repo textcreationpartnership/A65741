@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thysia 'aineseōs, or A thank-offering to the Lord for the happy recal of our dread soveraign Charles, by the grace of God, King of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to his kingdoms and people. God save King Charles the II.</title>
+            <author>White, Henry, 1593 or 4-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65741</idno>
+            <idno type="STC">Wing W1771A</idno>
+            <idno type="STC">ESTC R219453</idno>
+            <idno type="EEBO-CITATION">99830921</idno>
+            <idno type="PROQUEST">99830921</idno>
+            <idno type="VID">35383</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65741)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35383)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1880:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Thysia 'aineseōs, or A thank-offering to the Lord for the happy recal of our dread soveraign Charles, by the grace of God, King of England, Scotland, France, and Ireland, defender of the faith, &amp;c. to his kingdoms and people. God save King Charles the II.</title>
+                  <author>White, Henry, 1593 or 4-1661.</author>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Frankling, book-seller at Norwich,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed Hen. White.</note>
+                  <note>The first two words of the title are in Greek.</note>
+                  <note>Caption title on p. 5: A thank-offering to the Lord for the Kings happy return to his people.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1660-1685 : Charles II) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35383:1"/>
+            <p>ΘΥΣΊΑ ἈΙΝΈΣΕΩΣ, OR A THANK-OFFERING To the LORD, For the happy Recal of Our dread SOVERAIGN CHARLES, BY The Grace of God, King of <hi>England, Scot<g ref="char:EOLhyphen"/>land, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi> to His Kingdoms and People.</p>
+            <p>Delivered in a Sermon at <hi>Rougham</hi> in <hi>Suffolk,</hi> May 24, 1660. A day (as we heard) ſet apart for that purpoſe.</p>
+            <p>
+               <hi>God ſave King CHARLES the</hi> II.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Frankling,</hi> Book-ſeller at <hi>Norwich,</hi> in the Year, 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:35383:2"/>
+            <pb facs="tcp:35383:2"/>
+            <head>To the worſhipful JEFFERY BURWEL OF ROUGHAM in the County of <hi>Suffolk</hi> Eſq.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>ou having heard a Sermon publickly delive<g ref="char:EOLhyphen"/>red on the <hi>24</hi> of <hi>May, 1660,</hi> a day ſet a<g ref="char:EOLhyphen"/>part (as we heard) for thankſgiving to God for the happy recal of his Majeſty King <hi>CHARLES</hi> to his Kingdomes and people, were pleaſed to requeſt a copy thereof, which I not knowing how to deny to a Gentleman ſo well deſerving, and ſo much of him who hath no greater ambition then to be reſponſal to that goodneſs which in this age is grown ſo rare a dainty; In obſequiouſ<g ref="char:EOLhyphen"/>neſs to your demand I have here made that a Preſent to your <hi>Eye,</hi> which you formerly taſted by the <hi>Eare,</hi> not ex<g ref="char:EOLhyphen"/>pecting that the <hi>Pen</hi> ſhould expreſs the lively Energy of the <hi>Voice;</hi> yet as <hi>Pictures</hi> ſometimes pleaſe where the <hi>lively Motions</hi> are not found: ſo my hope is you will fa<g ref="char:EOLhyphen"/>vourably accept in writing what you approved when vo<g ref="char:EOLhyphen"/>cally delivered. The danger of fawning we are not igno<g ref="char:EOLhyphen"/>rant of, the breath of palpon's is infectious, a taint to the receiver, treaſonable in the ſpeaker. Yet may we not refuſe to give juſt praiſe, thereby to avoid the ſuſpicion of Paraſitiſme. Your religious minde is manifeſt in your actions, in your publick attendances, and private duties, exemplar in both, to your neighbors abroad, to your family
+<pb n="4" facs="tcp:35383:3"/>at home. Your love to <hi>diſtreſſed Miniſters</hi> in the late ſtormy times, though you had not a <hi>Cave</hi> to hide them in, yet you wanted not an <hi>Houſe</hi> to entertain them, nor a <hi>munificent hand</hi> to relieve their neceſsities, which how<g ref="char:EOLhyphen"/>ſoever they be reſented by ſome, will be no leſs then <hi>Aro<g ref="char:EOLhyphen"/>mates</hi> in heaven. Your cordial and conſtant loyalty to his <hi>MAjESTY</hi> hath been ſufficiently known to thoſe that know you, and as much may be ſaid of your ſincere affe<g ref="char:EOLhyphen"/>ction to the <hi>Church</hi> of <hi>England,</hi> which ſpeak for you to all not miſled in a distracted and confuſed generation. What theſe might do with others I know not, they are ſtrong motives to me to prize your worth, and proſecute your perſon with reſpect. May it pleaſe you to accept what I have done, and what my deſire is to do to ſerve you, that ſhall more oblige him who is, and reſolves to be,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Yours in all humble obſervance, and daily Oratour at the throne of grace, HEN. WHITE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:35383:3"/>
+            <head>A THANK-OFFERING TO the LORD for the KINGS happy return to his People.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>MATTH. 21.42.</hi>
+                  </bibl>
+                  <p>Jeſus ſaith unto them, Did you never read in the Scri<g ref="char:EOLhyphen"/>ptures, The ſtone which the builders refuſed, the ſame is become the head of the corner? This is the Lords do<g ref="char:EOLhyphen"/>ing, and it is marvellous in our eyes.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His is manifeſt to all that theſe words are a reply of Chriſt to ſome men concerning ſomething formerly diſcourſed, by the know<g ref="char:EOLhyphen"/>ledge whereof we are lighted in<g ref="char:EOLhyphen"/>to the preſent buſineſs. In his preaching our Savior had propo<g ref="char:EOLhyphen"/>ſed the parable of the <hi>vineyard</hi> from <hi>verſ.</hi> 33. and ſo on. In which he had preſented the immenſe bounty and benignity of God towards the <hi>Jews,</hi> his un<g ref="char:EOLhyphen"/>wearied patience, and expectance of fruit, his great care of continual ſupply by ſending meſſenger after meſſenger, and laſt of all <hi>his Son</hi> to whom all <hi>reverence</hi> was due, and ready ſubmiſſion ſuppoſed; but we finde in them unparallel'd in<g ref="char:EOLhyphen"/>ſolency, horrid cruelty, and deteſtable ingratitude in beating and butchering the <hi>ſervants,</hi> by a continued courſe in wickedneſs murthering the <hi>Son</hi> the true and lawful <hi>heir</hi> of the <hi>vineyard,</hi> not for any evil that he had done, but that they might get the <hi>inheritance</hi> to themſelves. They <hi>diſpoſſeſ<g ref="char:EOLhyphen"/>ſed</hi> him, that they might take <hi>poſſeſſion,</hi> made him <hi>away,</hi> that they might <hi>make way</hi> to their own advancement. Too ſad a ſtory for this <hi>joyful day,</hi> nor would I have ſoured your
+<pb n="6" facs="tcp:35383:4"/>thoughts with the leaſt remembrance of it, did not the depen<g ref="char:EOLhyphen"/>dence of the preſent words exact it at my hands. In the 40. verſe, our LORD doth rather ask a ſentence then pronounce one, as chooſing rather to make them their own Judges then to judge them, <hi>When the Lord therefore of the vineyard com<g ref="char:EOLhyphen"/>eth, what will he do unto thoſe husbandmen?</hi> To this they roundly anſwer, verſe 41. <hi>He will miſerably deſtroy thoſe wicked men, &amp;c:</hi> Full little thinking that they were con<g ref="char:EOLhyphen"/>cerned in it, but taking it as a buſineſs remote, they ſpake plainly; that if God were juſt, he would not ſuffer ſo great iniquity to go unpuniſhed, and though he came late, yet he would ſmite ſure at laſt, returning the full meaſure of their demerits upon their heads. Evil they were, and evil puniſh<g ref="char:EOLhyphen"/>ment they muſt look for, to be handled as ſeverely by di<g ref="char:EOLhyphen"/>vine juſtice, as their inhumane wickedneſs required. So fa<g ref="char:EOLhyphen"/>vorable are men in their own caſe, ſo loth to be found guil<g ref="char:EOLhyphen"/>ty, ſo ready to put it off, ſo forward to lay it home to others, whileſt they hope the blow ſhall not hit them.</p>
+            <p>In the words of the Text we have Chriſts return to them, by which they might underſtand that they were meant in all that had been ſaid, the very men who had acted ſo great villany, and were yet to act more. <hi>Did you never read in the Scriptures, The ſtone which the builders refuſed,</hi> &amp;c.</p>
+            <p>The words are cited out of the 118. <hi>Pſalm, verſ.</hi> 22, 23. They are <hi>Erotematical</hi> or <hi>Interrogatory.</hi> The Inter<g ref="char:EOLhyphen"/>rogation is not ſimple, but <hi>figurate,</hi> and hath here the force of an Aſſeveration. <hi>You have read the Scriptures, and in them theſe words alſo.</hi> He doth not queſtion what he had a deſire to know, but ſpeaketh as of a thing known to them, as men ſtudied,
+<note place="margin">John 5.39.</note> well verſed in holy Writ, not to <hi>ſeek</hi> in that <hi>book,</hi> in which they ſought <hi>Eternal life.</hi>
+            </p>
+            <p>His ſpeach is directed to the <hi>Jews,</hi> men within the pale and Pomery of the Church, who acknowledged the Scri<g ref="char:EOLhyphen"/>pture to be, <note place="margin">2 Tim. 3.16.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, given by divine inſpiration, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, of it ſelf creditable and unqueſtionable. Theſe men no more doubted of the divine authority thereof, then of the Divinity it ſelf. They were fully perſwaded that God ſpake here, whoſe Authority is Supreme, from which there
+<pb n="7" facs="tcp:35383:4"/>is no Appeal. It was enough to them, there needed no more, the evidence of the Word had with them the force of all arguments, they could no more refuſe to ſubmit to this, then to refuſe their God. It is in vain to quarrel or diſpute in a caſe determined by the great Moderator of heaven and earth. There we ſearch, but having found it there, we look no further, in this we acquieſce.</p>
+            <p>In the words we have two parts,
+<list>
+                  <item>1. An Inſtance, <hi>The ſtone which the builders refuſed, the ſame is become the head of the corner.</hi>
+                  </item>
+                  <item>2. An Inference, <hi>This is the Lords doing, and it is mar<g ref="char:EOLhyphen"/>vellous in our eyes.</hi>
+                  </item>
+               </list>
+            </p>
+            <div type="part">
+               <p n="1">1. The Inſtance is a <hi>Tropical</hi> ſpeach, or <hi>Metaphorical;</hi> when a name or thing is transferred from its proper ſigni<g ref="char:EOLhyphen"/>fication to another, or not proper, by ſome ſimilitude. In <hi>Rhetorick</hi> none is held more elegant, or of a more frequent uſe. The holy Scripture is full of them, not abhorring from thoſe Schemes which the <hi>Plebeans</hi> are forward to cenſure and condemn in thoſe that uſe them, as ſmelling too much of art, to which they are ſtrangers. Here the ſtate of Gods Church, or people, whether we regard the <hi>Eccleſiaſtical,</hi> or <hi>Political</hi> frame, is likened to a <hi>building;</hi> they which have the government, or be in power, to the <hi>builders;</hi> choiſe men, or deſigned of God, to the <hi>ſtones,</hi> the materials and ſtrength of the whole fabrick; ſuch as thoſe by the Archi<g ref="char:EOLhyphen"/>tects are refuſed, or laid by as uſeleſs; yet though wilfully rejected by men, are againſt their wills, by the divine pro<g ref="char:EOLhyphen"/>vidence, advanced to the Supremacy, or <hi>head of the corner.</hi> This is the ſum of the Metaphor, whoſe ſenſe I ſhall en<g ref="char:EOLhyphen"/>deavor more particularly to inquire after, which that I may the b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tter do, let us in this firſt part of the Text obſerve two things,
+<list>
+                     <item>1. A <hi>Rej<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ction</hi> by man, <hi>The ſtone which the builders refuſed.</hi>
+                     </item>
+                     <item>2. An <hi>Exaltation</hi> from God, <hi>The ſame is become the head of the corner.</hi>
+                     </item>
+                  </list>
+               </p>
+               <pb n="8" facs="tcp:35383:5"/>
+               <p>Which together may be expounded three ways,
+<list>
+                     <item>1. <hi>Hiſtorically</hi> of <hi>David.</hi>
+                     </item>
+                     <item>2. <hi>Prophetically</hi> of <hi>Chriſt.</hi>
+                     </item>
+                     <item>3. <hi>Analogically</hi> of <hi>Kings.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>My care ſhall be to avoid wringing and wreſting, that is a <hi>ſpiritual tyranny</hi> to rack and torment a text, to force it to ſay what we would have it; I ſhall ſtrive for no more then dilucidly to deliver what the words put into my hand, car<g ref="char:EOLhyphen"/>rying on the <hi>Rejection</hi> and <hi>Exaltation,</hi> according to the or<g ref="char:EOLhyphen"/>der laid before us.</p>
+               <div type="section">
+                  <p n="1">1. <note place="margin">The Hiſtori<g ref="char:EOLhyphen"/>call ſenſe.</note> Though <hi>Chriſt</hi> were before <hi>David</hi> in dignity, yet was <hi>David</hi> before <hi>Chriſt</hi> in time in his ſufferings, we will ever give <hi>Chriſt</hi> the priority of honor, yet without injury to <hi>Chriſt</hi> take <hi>David</hi> firſt in order, for the <hi>Hiſtorical</hi> ſenſe.</p>
+                  <p n="1">1. And order willeth us to begin with his <hi>Rejection</hi> by men, <hi>David</hi> was a ſtone which the <hi>builders</hi> refuſed. Called a <hi>ſtone</hi> (ſay ſome) becauſe he killed <hi>Goliah</hi> with a ſtone. The man he was whom God had deſigned for government, anointed by his Prophet, confirmed by his promiſe; yet de<g ref="char:EOLhyphen"/>ſpiſed and refuſed, thrown away as good for nothing, and that by the <hi>builders, Saul</hi> and his <hi>Courtiers.</hi> An hard time he had of it, he met with hard terms, courſe uſage, driven in<g ref="char:EOLhyphen"/>to ſtraights, put to his ſhifts, and that for many years toge<g ref="char:EOLhyphen"/>ther. <hi>Saul</hi> perſued him with deadly hatred, and would ſuffer him to reſt no where, <note place="margin">1 Sam. 26.21. 1 Sam. 26.19.</note> but dogs him in the wilderneſs, hunts him as a Partridge on the mountains, drives him out of his kingdome from among <hi>the inheritance of the Lord,</hi> ſaying, <hi>Go ſerve other Gods.</hi> Forced he was to live amongſt the idolatrous heathen, thus thruſt into temptation, either to loſe his life at home, or change his religion abroad to the loſs of his Soul. <note place="margin">2 Sam. 3.6.</note> He was refuſed by <hi>Abner</hi> a great Com<g ref="char:EOLhyphen"/>mander <hi>Iſhboſheths</hi> General, who made himſelf <hi>ſtrong for the houſe of Saul.</hi> What was done for <hi>Iſhboſheth,</hi> was the un<g ref="char:EOLhyphen"/>doing of <hi>David,</hi> purpoſed to keep him out of the kingdom. <note place="margin">1 Sam. 23.16.</note> The men of <hi>Keilah</hi> refuſed him, and would have betrayed him, that he might fall into the hands of <hi>Saul.</hi> The miſery of great ones was ſeldome unattended by treachery, they
+<pb n="9" facs="tcp:35383:5"/>might ſooner finde an whole tribe of diſloyaliſts, then one perſon that were faithful. The <hi>Ziphites</hi> refuſed him, <note place="margin">1 Sam. 23.19.</note> and diſcovered him to <hi>Saul, Doth not David hide himſelf with us in the ſtrong holds of the wood,</hi> &amp;c. The woods were willing to cover him, but there were men found ready to lay him open to deſtruction. Thus was <hi>David</hi> refuſed on all hands, made contemptible as a ſtone which we tread upon, ſpurn away as good for nothing, in repute a triobular, a mere gregaring, held unfit to ſupply the place of a man. He was <hi>the ſtone</hi> which the <hi>builders refuſed.</hi>
+                  </p>
+                  <p n="2">2. You have now heard of his <hi>rejection,</hi> have a little pa<g ref="char:EOLhyphen"/>tience, and you ſhall hear of his <hi>exaltation, The ſame is become the head of the corner.</hi>
+                  </p>
+                  <p>Even he that was debaſed, deſpiſed, and rejected of men, is notwithſtanding all that exalted by God, whom they thruſt to the <hi>threſhold,</hi> the Lord placed on the <hi>throne,</hi> made him the head or chief of his people, like a <hi>corner ſtone</hi> that joyned all together, or a <hi>bottom ſtone</hi> that ſuſtained the whole weight of the building, and bare up the body poli<g ref="char:EOLhyphen"/>tick. <note place="margin">Calvin. Har.</note> 
+                     <hi>Hoc in Davide actum eſt,</hi> This was done in <hi>David.</hi> When his enemies had done what they could to undoe him, all would not do, <hi>In fumum abiit,</hi> their work vaniſhed into ſmoke, and <hi>David</hi> ſits enthroned among the people of God. The <hi>Chaldee</hi> expoundeth it of <hi>David, The builders deſpiſed the young man, which among the ſons of</hi> Jeſſe <hi>was worthy to be made King and ruler.</hi> At the firſt he was <hi>Ejectus in exilium,</hi> driven into baniſhment, at the laſt, <hi>Evectus ad dignitatem,</hi> lifted up to dignity, or conſtituted King. <note place="margin">Moller. in Pſalm 118. 2 Sam. 5.3.</note> So <hi>Moller</hi> of <hi>David. All the Elders of Iſrael came to the King to Hebron, and King</hi> David <hi>made a league with them in Hebron before the Lord: and they anointed</hi> David <hi>King over Iſrael.</hi>
+                  </p>
+                  <p>
+                     <hi>Power</hi> may do much, might overcometh right, the ſtrongeſt ſword hath often cut aſunder the moſt juſt title. <hi>Policy</hi> may do more, there was more danger in <hi>Achitophels brain</hi> then in <hi>Abſaloms power. Malice</hi> is held unmatch<g ref="char:EOLhyphen"/>able if armed with power, yet hath that been over-reached by <hi>ſubtilty.</hi> There is more done by the <hi>hand</hi> then the <hi>ham<g ref="char:EOLhyphen"/>mer</hi>
+                     <pb n="10" facs="tcp:35383:6"/>with which it worketh. Where all theſe can do no<g ref="char:EOLhyphen"/>thing, <hi>treachery</hi> hath prevailed; an army in aray may meet that reſtiſtance which hidden fraud never feeleth of. Yet could neither <hi>power,</hi> nor <hi>policy,</hi> nor <hi>malice,</hi> nor <hi>treachery</hi> hinder <hi>David</hi> from his kingdom. How vain is it for man to ſtrive againſt God! <hi>Nimrod</hi> is permitted to build a <hi>Tower,</hi>
+                     <note place="margin">Pſal. 2.1. Non imple<g ref="char:EOLhyphen"/>verunt quod volverunt. Auguſt. tom. 8. Enarr. in Pſal. 2.</note> it proves but a <hi>Babel. Why do the heathen rage, and the people imagine a vain thing?</hi> Their purpoſes came to no purpoſe, their <hi>will</hi> was good, but their <hi>hands</hi> were weak. Were it not better for men to be quiet, then to ſtorm them ſelves into a frenſie, or ſwell till they break? All build<g ref="char:EOLhyphen"/>ings againſt God are upon a <hi>ſandy foundation,</hi> which the next guſt of his diſpeaſure levelleth with the earth. <hi>Gamaliel</hi> told the <hi>Jews,</hi> 
+                     <note place="margin">Acts 5.39.</note> that <hi>if the work were of God, they could not overthrow it.</hi> The providential works of the Higheſt are ſo firmly cemented, that the whole power of the creature is not able to diſſolve them. Let the man whom God will raiſe be confident, let his enemies keep off their hands, which they lift not up but to their own deſtruction.</p>
+               </div>
+               <div type="section">
+                  <p n="2">2. <note place="margin">The Prophe<g ref="char:EOLhyphen"/>tical ſenſe.</note> Theſe words which are expounded <hi>Hiſtorically</hi> of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> are meant <hi>Prophetically</hi> of <hi>Chriſt.</hi> He was <hi>the ſtone which the builders refuſed,</hi> yet became <hi>the head of the corner.</hi>
+                  </p>
+                  <p>That this is ſo,
+<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, &amp;c. Chryſoſt. 3. in Pſal. 117. In Matt. Homil. 69.</note> is manifeſt to every one, ſaith St. <hi>Chry<g ref="char:EOLhyphen"/>ſoſtome.</hi> He calls himſelf the <hi>ſtone,</hi> and the maſters in Iſrael the <hi>builders;</hi> ſo the ſame Author. What was done in <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> was but a preamble and figure of <hi>Chriſt.</hi> I ſhall not need to tell you that Interpreters, both ancient and modern, are in here, in with <hi>Chriſt,</hi> and for him. In the Text we have <hi>Chriſt</hi> himſelf alledging the words of the <hi>Pſalmiſt</hi> for himſelf, we need no more witneſſes. He that was typified by many other things, is found alſo under the Metaphor of a <hi>ſtone. <note place="margin">1 Cor. 10.4.</note> The rock was Chriſt.</hi> Not the natural and ſignifying, but ſpiritual and ſignified. Chriſt the ſubſtance was ſhadowed by it. <note place="margin">Iſai. 28.16.</note> 
+                     <hi>Behold, I lay in Sion for a foundation, a ſtone, a tried ſtone, a pretious corner ſtone, &amp;c.</hi> Not <hi>hay,</hi> or <hi>ſtuble,</hi> ſuch combuſtible matter; not <hi>clay,</hi> or <hi>earth,</hi> ſuch crumbling ſtuffe; nor <hi>wood,</hi> which may rot; but a <hi>ſtone,</hi>
+                     <pb n="11" facs="tcp:35383:6"/>firm and durable; no common or ordinary ſtone; but a <hi>pre<g ref="char:EOLhyphen"/>tious</hi> or ſumptuous <hi>ſtone,</hi> more worth then the world. Were my intent to follow the Metaphor in relation to a building, it were eaſy to ſhew the firmneſs, fitneſs, faſtneſs, the apt<g ref="char:EOLhyphen"/>neſs to bear the weight laid upon it, the durability and ſta<g ref="char:EOLhyphen"/>bility of this precious <hi>ſtone;</hi> but it ſhall ſuffice me to follow the Method of my Text, which mindeth us of the rejection and exaltation of this <hi>ſtone.</hi>
+                  </p>
+                  <p n="1">1. <hi>Chriſt</hi> was refuſed by <hi>the builders. <note place="margin">John 11.50.</note> Caiaphas</hi> the high Prieſt, the Prieſts and Elders, the great <hi>Sanedrim</hi> or Senate, who took the care both of Church and State, of the ſervice of God, and ſafety of men, they all refuſed him, and ſtirred up the people to do the like. <hi>It is expedient for us that one man ſhould die for the people.</hi> That was <hi>Caiaphas</hi> his opi<g ref="char:EOLhyphen"/>nion, who ſpake the ſenſe of the great Politicians, it is for the publike profit, let him die whatſoever he be, though ne<g ref="char:EOLhyphen"/>ver ſo juſt, or innocent. <note place="margin">Unum pro cunctis dabi<g ref="char:EOLhyphen"/>tur caput. Virg.</note> One head ſhall go for many, ſaid the Poet. If it be for the turn, Chriſt himſelf ſhall be turn<g ref="char:EOLhyphen"/>ed to death. <note place="margin">Luke 19.14. Stat pro ra<g ref="char:EOLhyphen"/>tione volun<g ref="char:EOLhyphen"/>tas.</note> 
+                     <hi>We will not have this man reign over us.</hi> They ſay not why, they give no reaſon for it, their will was their Law, and by the Law of their wills they refuſed him, then which nothing is more illegal or tyrannical. <note place="margin">John 18.38, 39, 40.</note> When <hi>Pilate</hi> had profeſſed openly that he <hi>found no fault in him,</hi> and asked them if they would have him <hi>releaſed,</hi> they cryed all again, ſaying, <hi>not this man, but</hi> Barabbas. Now <hi>Barab<g ref="char:EOLhyphen"/>bas</hi> was a robber. What rejection could be with more ſcorn and contempt, then to prefer a robber before him, the ring<g ref="char:EOLhyphen"/>leader of cruel ſedition <note place="margin">Grotius in John 18.</note> (ſo <hi>Grotius</hi> expounds the word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) before him that was <hi>Heir</hi> of all? <note place="margin">Act. 3.14, 15.</note>
+                     <hi>But ye denied the holy One, and the juſt, and deſired a murderer to be granted unto you, and killed the Prince of life.</hi> The head they rejected, not from headſhip onely, but from all uſe, they did not onely deny him the <hi>chief place,</hi> but allowed him <hi>no place,</hi> not ſo much as to live in the world. <note place="margin">B. Andrews.</note> It is rightly obſerved by a moſt learned and godly Biſhop of ours, that it is not <hi>Im<g ref="char:EOLhyphen"/>probaverunt,</hi> they diſliked, but <hi>Reprobaverunt,</hi> they rejected as a reprobate, and indeed they could not uſe a reprobate worſe. <note place="margin">Matth. 27.20.</note> 
+                     <hi>But the chief Prieſts and Elders perſwaded the mul<g ref="char:EOLhyphen"/>titude
+<pb n="12" facs="tcp:35383:7"/>that they ſhould ask</hi> Barabbas, <hi>and deſtroy Jeſus.</hi> It was a cuſtom among them to have a priſoner delivered unto them at the feaſt, the choice of the man was left to the peo<g ref="char:EOLhyphen"/>ple, who muſt be wrought to ſerve the turn, and ſuch verti<g ref="char:EOLhyphen"/>ginous ſpirits are ſoon wheeled about by their great maſters, their concurrence conducing to colour the buſineſs, to take off much from the great ones, by the intervention of their votes which carried it, and caſt our Savior to deſtruction. <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>; Chryſ. in Matth. 21. Homil. 69.</note> The queſtion is moved by St. <hi>Chryſoſtome,</hi> How did they <hi>reject him?</hi> To which his anſwer is, by ſaying that he <hi>was not</hi> of God, that he <hi>ſeduced the people,</hi> that he was a <hi>Sama<g ref="char:EOLhyphen"/>rian,</hi> and <hi>had a devil.</hi> That is the way of the ſlily wicked, firſt to accuſe, though never ſo falſly, to render the perſon odious, then to cloſe up all by an out-cry againſt him, <note place="margin">Luke 23.21. John 19.15.</note> 
+                     <hi>Crucifie him, crucifie him. Away with him, away with him, crucifie him.</hi> You have now heard the <hi>rejection</hi> of <hi>Chriſt,</hi> he was the <hi>ſtone</hi> which they refuſed.</p>
+                  <p n="2">2. His <hi>exaltation</hi> followeth, <hi>The ſame is become the head of the corner.</hi>
+                  </p>
+                  <p>Whom they marred, God made; whom they depreſſed, he advanced; whom they killed, he raiſed; whom they vili<g ref="char:EOLhyphen"/>fied, he glorified. <note place="margin">Poſt repro<g ref="char:EOLhyphen"/>bationem aſ<g ref="char:EOLhyphen"/>ſumptus, &amp; ſublimatus in conſumma<g ref="char:EOLhyphen"/>tionem. Ter<g ref="char:EOLhyphen"/>tull. adverſ. Jud. cap. 14. 1 Pet. 2.4.</note> After his refuſal he was aſſumed to ho<g ref="char:EOLhyphen"/>nor, and lifted up to the higheſt perfection. <hi>Diſallowed</hi> in<g ref="char:EOLhyphen"/>deed of <hi>men,</hi> but <hi>choſen of God,</hi> and <hi>pretious.</hi> Their <hi>repro<g ref="char:EOLhyphen"/>bate,</hi> but his <hi>elect.</hi> They threw him away as a <hi>peble,</hi> but God eſteemed him above <hi>pearls.</hi> He indeed was <hi>the pearl of great price,</hi> though undervalued by men of corrupt mindes. They thought him unfit for any place in the building, but God giveth him the beſt place, maketh him <hi>the head of the corner.</hi> He is the <hi>foundation</hi> of the building, though the <hi>builders</hi> refuſed him, <note place="margin">Epheſ. 2.20.</note> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, which with ſome is <hi>An<g ref="char:EOLhyphen"/>gularis imus,</hi> the <hi>bottom-ſtone,</hi> upon which all is built; with others <hi>Angularis ſummus,</hi> the <hi>top-ſtone</hi> by which all were faſtned. <hi>Chriſt</hi> was both, the <hi>foundation</hi> of the whole building. <note place="margin">1 Cor. 3.11.</note> 
+                     <hi>For other foundation can no man lay, then that is laid, which is Jeſus Chriſt.</hi> 
+                     <note place="margin">Ut duos pa<g ref="char:EOLhyphen"/>rietes. i.e. po<g ref="char:EOLhyphen"/>pulum ut<g ref="char:EOLhyphen"/>rumque con<g ref="char:EOLhyphen"/>ſociet. Hier. in Matth. 21.</note>The coupling or faſtning of the whole building together, that he might joyn two walls to<g ref="char:EOLhyphen"/>gether, that is, either people, both <hi>Jews</hi> and Gentiles. This
+<pb n="13" facs="tcp:35383:7"/>the ancients concur in, and in their judgement thoſe words of the Apoſtle are for it, <note place="margin">Epheſ. 2.14.</note> 
+                     <hi>For he is our peace, who hath made both one.</hi> He brake down the partition, made the union. The Jews and Gentiles were divided, not in Nation onely, but in Religion, in Rites, Laws, Ordinances, and for them by animoſities and enmities, by contempt and hatred each of other, theſe <hi>Chriſt</hi> removed by dying for both, by com<g ref="char:EOLhyphen"/>municating to both the ſame <hi>word</hi> and <hi>ſpirit,</hi> that they which are at the utmoſt diſtance and defiance, are by the ſame <hi>faith</hi> knit together in <hi>Jeſus Chriſt. <note place="margin">Act. 2.36.</note> Therefore let all the houſe of Iſrael know aſſuredly that God hath made the ſame Jeſus, whom ye crucified, both Lord and Chriſt.</hi> The object of your contempt is now in the greateſt honor; he whoſe name you did execrate, hath now <hi>a name above all names;</hi> he whom you contumeliouſly abuſed, God hath crowned with Glory; you brought him to the grave, but he is <hi>riſen from the dead,</hi> 
+                     <note place="margin">Rom. 1.4.</note> and thereby <hi>declared to be the Son of God, with power according to the ſpirit of holineſs;</hi> the ſame Chriſt whom you hanged upon the croſs, now ſitteth on the right hand of God. Herein appeared the power and wiſdom, or the powerful wiſdom of God, which over<g ref="char:EOLhyphen"/>wrought all the malice of Chriſts enemies, and in deſpite of them hath made, or advanced the <hi>ſtone</hi> by them refuſed <hi>the head of the corner,</hi> the fundamental, and principal of all.</p>
+               </div>
+               <div type="section">
+                  <p n="3">3. <note place="margin">The Analo<g ref="char:EOLhyphen"/>gical ſenſe.</note> Having taken into conſideration the <hi>Hiſtorical</hi> ſenſe as meant of <hi>David,</hi> the <hi>Prophetical</hi> ſenſe as pertaining to <hi>Chriſt,</hi> give me leave to ſay ſomething of the <hi>Analogical</hi> ſenſe in reference to <hi>Kings.</hi>
+                  </p>
+                  <p>The building being of ſtone, the materials firm and ſolid, which the Text in a borrowed ſenſe ſpeaketh it to be, <hi>Kings</hi> and Princes go along with the reſemblance, being a part of the <hi>Political edifice,</hi> a principal part, of the foundation amongſt us, our Lawyers telling us that <hi>Monarchy,</hi> or go<g ref="char:EOLhyphen"/>vernment by Kings, is one of the <hi>fundamental Laws</hi> of this Nation, it will not be denied but they may be taken in by proportion or likeneſs. Sure we are that in the holy Scrip<g ref="char:EOLhyphen"/>tures we finde them ſuch, and though our tranſlation turn<g ref="char:EOLhyphen"/>eth it, <hi>The chief of all the people,</hi> yet the Original hath it,
+<pb n="14" facs="tcp:35383:8"/>
+                     <hi>Pinneth cal-hagnam,</hi> the corners of all the People, the ſup<g ref="char:EOLhyphen"/>porters of the Common-wealth, and the moſt eminent of all. <note place="margin">Num. 24.17.</note> 
+                     <hi>Balaam</hi> propheſying of <hi>the Star</hi> that ſhould come out of <hi>Jacob,</hi> and <hi>the Scepter</hi> that ſhould ariſe out of <hi>Iſrael,</hi> ſaith, that <hi>he ſhould ſmite the corners of Moab,</hi> where our margent hath it, <hi>the Princes of Moab.</hi> Princes are called <hi>the ſtay of the tribes.</hi> 
+                     <note place="margin">Iſai. 19.13.</note> The Hebrew is <hi>Pinneth</hi> the corner of the tribes. The old Latine turneth it <hi>Angulum populorum,</hi> the corner of the people. To be underſtood of Princes as the <hi>firmament</hi> and <hi>ornament</hi> of the Common-wealth. We have found them <hi>corners,</hi> we may finde them <hi>Heads</hi> or <hi>Chiefs</hi> alſo by their uſual appellation, <note place="margin">Num. 1.16.</note> 
+                     <hi>Heads of the thouſands of Iſrael.</hi> The <hi>Elders of Iſrael ſaid unto</hi> Jeptha, <hi>that they came unto him that he might be their head. <note place="margin">Judg. 11.17.</note> Leroſch,</hi> which the Seventy turn <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, for a Prince. <note place="margin">Hoſh. 1.11.</note> 
+                     <hi>Then ſhall the chil<g ref="char:EOLhyphen"/>dren of Judah, and the children of Iſrael be gathered together, and appoint themſelves one head.</hi> The <hi>Thargum</hi> reads, They ſhall appoint themſelves one Prince of the houſe of <hi>David.</hi> Let the place be meant of <hi>Chriſt,</hi> yet is Chriſt as <hi>King</hi> called the <hi>head,</hi> which is to my purpoſe: Kings and Princes are called <hi>heads</hi> not only for their eminent place or power; but for the great profit they ſhould bring unto the people, by ordering and governing them in a way moſt conducing for their good; which is of import againſt the <hi>Acephaliſts,</hi> the men of an headleſs way, and the <hi>Polycephaliſts,</hi> which are for many heads, both being monſtrous and unnatural.</p>
+                  <p>
+                     <hi>Kings</hi> being found to be <hi>Corner-ſtones</hi> and <hi>heads,</hi> in re<g ref="char:EOLhyphen"/>ference to the publike State, or Government, we may pro<g ref="char:EOLhyphen"/>ceed to their Rejection and Exaltation, which are the parts of the Inſtance. Here I might ſhew how this hath been ve<g ref="char:EOLhyphen"/>rified in other Nations, as amongſt the <hi>Macedonians, Epi<g ref="char:EOLhyphen"/>rots, Danes,</hi> and in later times among the <hi>Turks;</hi> but this time calling for it, I ſhall onely run the parallel in our preſent Soveraign Lord King <hi>Charles</hi> the Second, as a ſtone refuſed by man, yet exalted by God, and made the head of the corner.</p>
+                  <p>His <hi>rejection</hi> is firſt offered unto us, <hi>The ſtone which the builders refuſed.</hi>
+                  </p>
+                  <pb n="15" facs="tcp:35383:8"/>
+                  <p>By <hi>builders</hi> or architects here we are not forced to under<g ref="char:EOLhyphen"/>ſtand them to whom the government was legally commit<g ref="char:EOLhyphen"/>ted, not the <hi>Archi-guberniſts,</hi> but meer <hi>Archimagoes,</hi> which by crafty and cruel devices took upon them the govern<g ref="char:EOLhyphen"/>ment, which ſnatched the reigns into their hands, and for<g ref="char:EOLhyphen"/>ced to themſelves the Title of the <hi>Truſtees of the Nation,</hi> who under pretence of keeping, utterly ruined the liberties of the People, who in ſtead of holding forth a <hi>Scepter of ſafety,</hi> held over their heads a <hi>Sword of terror.</hi> By theſe our true and lawful King was <hi>refuſed,</hi> or <hi>reprobated,</hi> (as the word in the Text hath it) uſed moſt baſely and unwor<g ref="char:EOLhyphen"/>thily, as the refuſe, recrement, or retriment, that I ſay not, as the excrement of men. Here he was to three Kingdoms, lawful heir, and apparent, yet not ſuffered to enjoy one of them, not a corner in any one, not to rule, but not to live in any one of his Dominions, but driven as a miſerable exile to ſhift as well as he could in the wide world. After the fight at <hi>Worceſter</hi> there was a thouſand pounds promiſed to any that could bring him into the hands of his enemies, that the price of his head, as we have cauſe enough to think. When he had found ſhelter among the <hi>Low-Dutch,</hi> he was ſoon driven from thence by thoſe here, which had the bet<g ref="char:EOLhyphen"/>ter of that nation by ſea. His next remove was into <hi>France,</hi> where having found an <hi>umbrello</hi> with his allies and royal relatives, he was upon compact to be removed from thence as ſoon as the men here had cloſed with that Monarch, and driven to hunt abroad for another covert, which for a ſmall time he found amongſt the Proteſtant Princes in high <hi>Germany,</hi> where he met not onely with civil uſage, but re<g ref="char:EOLhyphen"/>markable honor. VVhen our workmen had concluded a peace with <hi>France</hi> and the <hi>Low-countries,</hi> and a war begun with <hi>Spain,</hi> he was by that King taken into protection, which ſounds much to his honor with all true-hearted <hi>Ca<g ref="char:EOLhyphen"/>roliſts,</hi> under that wing he remained till of late. Here have been two or three Parliaments (ſo called) which made it their firſt work to renounce his intereſt, and you are not ignorant that ſome (who called themſelves a Parliament) abjured him, and decreed that he ſhould be abjured and ut<g ref="char:EOLhyphen"/>terly
+<pb n="16" facs="tcp:35383:9"/>renounced by all others. What our moſt gratious King ſuffered in all the time of his abſence, what dangers he was in, in what ſtraights, with what temptations aſ<g ref="char:EOLhyphen"/>ſaulted, with what difficulties he wraſtled, is not eaſily conceived, nor can by me be delivered, yet let me think enough to have been ſaid to warrant the applying of theſe words to him, <hi>Lapidem qu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m reprobaverunt adificantes,</hi> The ſtone which the builders refuſed.</p>
+                  <p n="2">2. Bleſſed be God, we are now come to his <hi>Exaltation, The ſame is become the head of the corner.</hi>
+                  </p>
+                  <p>After ſo long rejection, no appearance of help, not a ſpark of hope viſible, his enemies triumphing, his friends at the dead lift, no reviver to ſenſe, the ſtrength of humane rea<g ref="char:EOLhyphen"/>ſon at a loſs, this ſtone caſt down is raiſed, our King re<g ref="char:EOLhyphen"/>ſtored, advanced to his native right, the inheritance of his royal Predeceſſors, to the height of honor, and what is more, enthroned in the hearts of his People, holding as ſtrong <hi>reſidence</hi> in their <hi>affection,</hi> as <hi>preſidence</hi> over the Nations. Not to ſpeak of the way and means, the happy inſtruments, a ſmall army from the North, the ſcattering of an oppoſite army without a ſtroke ſtriking, the forward<g ref="char:EOLhyphen"/>neſs of <hi>Englands Metropolis,</hi> the noble City of <hi>London,</hi> the ſuddain concurrence of the whole Nation in the ſeveral parts of it, and by the principal men, remonſtrating, and declaring for a free Parliament, their countenancing and encouragement from the Lord General, ſuch a Parliament called, aſſembled, and unanimouſly aſſenting and avow<g ref="char:EOLhyphen"/>ing to recal their King, the diſpatch of their Proclamations to declare His Right, to proteſt their loyalty and ſubjection, to perſwade all to entertain Him as their Soveraign, to the exceeding joy and ſuper-abounding gladneſs of the Peo<g ref="char:EOLhyphen"/>ple, which hath rung through the Nation, mounted up in multiplied flames like the Stars in number, the air rent with acclamations, and all theſe perſued with publike thankful<g ref="char:EOLhyphen"/>neſs to God, every good heart being a prepared altar for ſuch an offering. Theſe conſidered, not felt with the hand, but poiſed in the ballance of a devout eſtimation, we can<g ref="char:EOLhyphen"/>not doubt of the convenience of the Textual inſtance to our
+<pb n="17" facs="tcp:35383:9"/>gracious King, and dread Soveraign, <hi>the ſame ſtone which the builders refuſed, is become the head of the corner.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <p n="2">2. I can ſtay no longer in the Inſtance, the fore-wind of my Text filleth the ſailes of affection, and drive on to the Inference, which is a part of application, <hi>This is the Lords doing, and it is marvellous in our eyes.</hi>
+               </p>
+               <p>Two things here offer themſelves unto us,
+<list>
+                     <item>1. An Adſcription to the worker, <hi>This is the Lords doing,</hi>
+                     </item>
+                     <item>2. The Admiration of the work, <hi>And it is marvel<g ref="char:EOLhyphen"/>lous in our eyes.</hi>
+                     </item>
+                  </list>
+               </p>
+               <div type="section">
+                  <p n="1">1. An Adſcription to the worker, <hi>This is the Lords doing.</hi>
+                  </p>
+                  <p n="1">1. <hi>God</hi> is owned in it, and he hath owned his ſervants, whoſe prayers went up for a memorial unto him, who hath returned a gratious anſwer never to be forgotten. He hath ſigned their petitions with the <hi>broad Seal</hi> of his <hi>mercy,</hi> which muſt be engraven upon our hearts with the inde<g ref="char:EOLhyphen"/>leble characters of <hi>love</hi> and <hi>gratitude.</hi>
+                     <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Chryſoſt. in Pſal. 117.</note> That which was done was not by man, or men. What hands ſoever were in it, there was an hand above all which produced the bleſſed ef<g ref="char:EOLhyphen"/>fect. We exclude not the means, though God needs them not. Where the cooperation of <hi>ſecond cauſes</hi> is allowed, the main work is attributed to the <hi>firſt cauſe.</hi> Let me be under<g ref="char:EOLhyphen"/>ſtood of what is truely and properly good; <hi>The Lord is of purer eyes then to behold that which is evil,</hi> and certain I am that he looketh not favorably on them that entitle him to it. This work was <hi>great</hi> and <hi>good,</hi> greatly good, ſuch as became the great God to do, and with all willingneſs we acknowledge him the doer of it. <note place="margin">Non huma<g ref="char:EOLhyphen"/>nis viribus, ſed Dei po<g ref="char:EOLhyphen"/>tentia. Hiero. in loc. Pſal. 44.3.</note> Done it was, not by hu<g ref="char:EOLhyphen"/>mane force, but by Divine power, ſo St. <hi>Herome. They gat not the land in poſſeſsion by their own ſword, neither did their own arm ſave them: but thy right hand, and thine arm, and the light of thy countenance, becauſe thou hadſt a favor unto them.</hi> Their arms were not idle, nor their ſwords uſeleſs, we may well think that their hearts ſet their hands on work, yet there was ſomething above all theſe; without
+<pb n="18" facs="tcp:35383:10"/>the concurſe whereof the victory had not been attained. Let us leave mens ſins upon their own ſcore, but give the Lord his due in all that is good. What good is done by man, be the inſtruments who you will, it is the Lord that by them doth the good that is done. This denieth not an acknowledgement to the hand by which the benefit is con<g ref="char:EOLhyphen"/>veyed; we may kiſs the cup out of which we drink, but our thanks muſt be carried to another. The widow of <hi>Sa<g ref="char:EOLhyphen"/>repta's</hi> kindneſs was gratefully received by the Prophet, ſo was his entertainment by the <hi>Shunamite.</hi> All the help we re<g ref="char:EOLhyphen"/>ceive by the hands of others ought to reſide with us, and be requited, if in our power. Let them wear the robe that won the fleece, let the Crown be ever ſet upon the right head, let God have the glory.</p>
+                  <p n="2">2. When the Lord hath done his work, his <hi>great work,</hi> he hath determined, all ought to acquieſce in it. Yet let me have leave to think that in works of this kinde all have not reſented his goodneſs, nor thankfully approved the opera<g ref="char:EOLhyphen"/>tion of his hands. The <hi>Critical humoriſts</hi> want not a black tooth to bite, nor a bitter tongue to inveigh againſt the beſt performances. Gods deliverance of <hi>Iſrael</hi> out of <hi>Egypt</hi> was not atteſted with thankfulneſs from the <hi>Egyptians,</hi> but perſued by hatred to his people, ſo far were they from reſt<g ref="char:EOLhyphen"/>ing in it, that they armed againſt it. When God had cho<g ref="char:EOLhyphen"/>ſen <hi>Saul</hi> to be <hi>King,</hi> 
+                     <note place="margin">1 Sam. 10.27.</note> there were <hi>children of Belial,</hi> who ſaid, <hi>How ſhall this man ſave us?</hi> and they deſpiſed him, and brought him no preſents. <hi>Homines nequam,</hi> (ſo <hi>Tremellius</hi> and <hi>Junius</hi> turn it) men of perverſe ſpirits, who diſlike that with which all others are pleaſed, who adore no <hi>images,</hi> but thoſe of their own <hi>imaginations,</hi> who <hi>arragate</hi> all to them<g ref="char:EOLhyphen"/>ſelves, but <hi>derogate</hi> from all others, even from them whom God will have honored. <note place="margin">1 King. 1.40.</note> When <hi>Solomon</hi> was advanced to the kingdom, <hi>the people piped with pipes, and rejoyced with great joy, ſo that the earth rent with the ſound of them.</hi> This was harſh muſick in the eares of <hi>Adonijak</hi> and his followers, extremely diſreliſhed, the bit they gaped for fell into anothers mouth, they were diſtaſted becauſe de<g ref="char:EOLhyphen"/>prived of their expected ſweetneſs. Let the Lords doing
+<pb n="19" facs="tcp:35383:10"/>be never ſo great, or glorious, male-contents, ſelf-ſeekers, ſuch as are ſharp ſet upon their own emolument, full of hope to have their turns ſerved in their own way, have ſtill in them a contrary humor to the Lords doing. They which ſee the hand of the Lord in it, his right hand, and that reaching forth a rich bleſſing to his Church and people, are otherwiſe affected, they magnifie the Lord, their ſouls bleſs him for the benefit, <note place="margin">Pſal. 5.11.</note> they <hi>rejoyce</hi> in it, and <hi>ſhout for joy.</hi> 
+                     <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Chryſoſt. in Pſal. 117.</note> St. <hi>Chryſoſtome</hi> hath four words to expreſs the joy of the people for the exaltation of the <hi>ſtone</hi> refuſed, to rejoyce, to leap for joy, to be affected with chearfulneſs, to entertain with delight or pleaſure. Theſe he would have ſpiritual, of the mind and heart. That is ever beſt, and without that all other joy is but froth and ſcum. Yet it may not be de<g ref="char:EOLhyphen"/>nied but the inward joy of the ſoul may have it out-lets, the full heart will finde a vent, it cannot forbear the diſcovery of it ſelf. <hi>David danced</hi> before the Ark. <hi>Moſes ſung</hi> his thankfulneſs to the Lord. <note place="margin">Pſal. 68.25.</note> 
+                     <hi>The ſingers went before, the players on inſtruments followed after: amongſt them were the damoſels playing with timbrels.</hi> Where there is an impreſ<g ref="char:EOLhyphen"/>ſion of a great work of God upon the ſom, a work of mer<g ref="char:EOLhyphen"/>cy, ſuch expreſſions as diſagree not from reaſon and reli<g ref="char:EOLhyphen"/>gion are imitable and commendable, in which pious men are not to be blamed if they ſeem to forget themſelves in re<g ref="char:EOLhyphen"/>membring the great work of the Lord.</p>
+                  <p n="3">3. The Lord puts much honor upon them whom he ma<g ref="char:EOLhyphen"/>keth inſtruments of his peoples good, yet it concerns them to remember, <hi>Hoc factum à Domino,</hi> This was the Lords doing, and to tremble at the leaſt defaulkment from his glory by aſſuming to themſelves the leaſt part of his due. He is very tender in point of <hi>honor,</hi> and will not endure his <hi>Crown</hi> upon the head of a creature; it is well that they may partake of his <hi>mercy,</hi> to cloud his Majeſty is unſuffe<g ref="char:EOLhyphen"/>rable. <note place="margin">Acts 12.23.</note> 
+                     <hi>Herod</hi> was ſmitten by on Angel, <hi>becauſe he gave n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t God the glory: Epiphanius</hi> affirms it, that there were none of the Sect of the <hi>Herodians</hi> left in his time. Hath there been any time without ſuch haughty ſpirits that from the love of <hi>ſelf-excellence,</hi> have challenged the whole glory
+<pb n="20" facs="tcp:35383:11"/>of their actions to themſelves? <note place="margin">Dan. 4.30.</note> 
+                     <hi>Is not this great Babylon, that I have built for the houſe of my kingdom, by the might of my power, and for the honor of my Majeſty?</hi> Here is a voice of pride beyond the common ſtature of men, but he was un-man'd for it, and turned out to common with the beaſts, the fitteſt company for ſuch who loſe God in the gaze of themſelves. That of the <hi>Pſalmiſt</hi> doth beſt become the thoughts and mouths of the ſervants of God, <note place="margin">Pſal. 115.1. Non nobis, quib non à nobis.</note> 
+                     <hi>Not unto us O Lord, not unto us, but unto thy name give glory.</hi> Not to us, becauſe it was not of us. It was thy doing, not ours, it is enough for us to have the fruit and comfort, to thee onely, O Lord, be all the glory for ever.</p>
+               </div>
+               <div type="section">
+                  <p n="2">2. I may not omit what the Text ſubjoyneth, to the ad<g ref="char:EOLhyphen"/>ſcription to the worker, the admiration of the work, <hi>It is marvellous in our eyes.</hi>
+                  </p>
+                  <p>It was thy <hi>work,</hi> and our <hi>wonder.</hi> We have had <hi>factum a Domino,</hi> The Lords work, here <hi>factum mirabile,</hi> His won<g ref="char:EOLhyphen"/>derful work; <note place="margin">Pſal. 111.4.</note> 
+                     <hi>He hath made his wonderful works to be re<g ref="char:EOLhyphen"/>membred.</hi> Remembred they may be, comprehended they cannot be. Were they not <hi>tranſcendent</hi> to the bounds of <hi>reaſon,</hi> our knowledge would prevent <hi>admiration.</hi> We ad<g ref="char:EOLhyphen"/>mire: what we underſtand not: though ſomething be ſeen, yet there is more then we can ſee. In <hi>Davids</hi> Exaltation after his rejection, in <hi>Chriſts,</hi> in our <hi>Kings,</hi> all wonderful, and appliable to all. But the buſineſs of this day, will licence me to look to the laſt, the Lords making our King that was refuſed, the Head and Ruler of His People. <note place="margin">Rom. 11.33.</note> 
+                     <hi>O the depth of the riches both of the wiſdom and knowledge of God! how unſearchable are his judgements, and his ways paſt finding out!</hi> 
+                     <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Chryſ. in Rom. 11. Hom. 19.</note> That there was a depth he knew, how deep it was he knew not; The ſpeach is of one admiring, not of him that knew all. We are not ignorant of what the Lord hath done, yet we are to ſeek in all that he hath done, and muſt make admiration our refuge, as his people did after a great deliverance, <note place="margin">Num. 23.23.</note> 
+                     <hi>Quid operatus ſit Deus?</hi> What hath the Lord wrought? If we fix our eyes upon the Sun in his brightneſs, they are dazeled, if we wade in the Ocean, our feet fail us; if we muſe upon things too high for us, our
+<pb n="21" facs="tcp:35383:11"/>thoughts are puzled. As creatures of the greateſt ſagacity ſometimes loſe the ſent, and are at cold hunting: ſo the moſt ſublimate wits are foundred in the great works of God.</p>
+                  <p>Let the means be conſidered by which the Lord did this great work: that help came from whence it was leaſt look<g ref="char:EOLhyphen"/>ed for; from a party not comparable to their adverſaries in power; in ſuch a juncture of time, when the pretended builders were paſt fear, being fleſhed with freſh victory; the people paſt hope, looking for no better then to be de<g ref="char:EOLhyphen"/>voured by Publicans and Sinners; to which if we add the way in which it was done, without noiſe, without blood<g ref="char:EOLhyphen"/>ſhed, ſo many recovered without the loſs of any, a ſtrong army ſcattered without conflict; the wonderful provi<g ref="char:EOLhyphen"/>dence, power, wiſdom, and mercy of God appeared in it, even to aſtoniſhment. That poor we, unworthy we ſhould live to ſee our gracious <hi>King</hi> by them diſpiſed, refuſed, caſt off with inſulting, recalled, reſtored, enthroned with ho<g ref="char:EOLhyphen"/>nor, proſecuted with abundant love, and redundant accla<g ref="char:EOLhyphen"/>mations of joy: To ſee the almoſt ruined <hi>Walls</hi> of our <hi>Na<g ref="char:EOLhyphen"/>tion;</hi> our good <hi>Laws</hi> repaired; our loſt <hi>Liberty</hi> recovered; our <hi>Rights</hi> and <hi>Properties</hi> aſſured; and that which is more deareſt, our withered <hi>Religion</hi> to flouriſh once again; to meet a gale of good hope to ſee the <hi>Church</hi> raiſed out of her grave, reſtored, not to <hi>life</hi> onely, but to <hi>health</hi> and <hi>beauty;</hi> this, this I ſay, is wonderful in our eyes, there is a <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> in it, a depth not to be fathomed by the plumb<g ref="char:EOLhyphen"/>line of our underſtanding, yet ever acknowledged with ad<g ref="char:EOLhyphen"/>miration, publiſhed with grateful confeſſion, and though it cannot be throughly uttered, yet it ſhall never be ſmother<g ref="char:EOLhyphen"/>ed, but as a beacon upon an hill perpetually burning to the glory of our God. Here was a wonderful wonder, <note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Chryſ. in Mat. 21. Homil. 69.</note> (as the Father hath it) This in our eyes, in the eyes of the recei<g ref="char:EOLhyphen"/>vers, not of the refuſers: they look upon it with regret, we with love and joy.</p>
+                  <p>
+                     <hi>
+                        <note place="margin">Pſal. 126.3.</note>The Lord hath done great things for us, whereof we are glad.</hi> What ſhall we render unto the Lord? You know what the Prophet ſaid concerning the Shunamite from
+<pb n="22" facs="tcp:35383:12"/>whoſe hand he had received benefits, <note place="margin">2 King. 4.13.</note> 
+                     <hi>Behold, thou haſt been careful for us with all this care; what is to be done for thee?</hi> VVe that have been ſo great receivers, cannot but be ſolli<g ref="char:EOLhyphen"/>citous of a return, unleſs incapable of gratitude. <note place="margin">Nolo vos Ju<g ref="char:EOLhyphen"/>daico notari opprobrio, &amp;c. Bern. tom. 1. ſuper Cantic. Serm. 13.</note> I would not have you branded with the reproach of the <hi>Jews,</hi> (ſaith <hi>Bernard</hi>) of whom the Scripture teſtifieth that they were <hi>unmindeful of the benefits of the Lord, and the wonders that he had ſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wed them.</hi> VVE cannot <hi>recompenſe,</hi> but we ought to <hi>recount;</hi> we cannot pay, but we ought to publiſh; <note place="margin">Pſal. 26.7.</note> 
+                     <hi>That I may publiſh with the voice of thanksgiving, and tell of all thy wondrous works.</hi> He honoreth the giver that pub<g ref="char:EOLhyphen"/>liſheth his own receits, he begets a good opinion of his be<g ref="char:EOLhyphen"/>nefactor in others that tells abroad all the good that hath been done for him. New mercies call for renewed thank<g ref="char:EOLhyphen"/>fulneſs, <note place="margin">Pſal. 98.1.</note> 
+                     <hi>O ſing unto the Lord a new ſong, for he hath done marvellous things.</hi> Gods works are never old whileſt their memory is freſh with us. If we take new for excellent, exquiſite, not vulgar, but ſuch as may be ſutable to that which he hath done for us, our words will be too low, let us therefore borrow of others what our poverty cannot ſupply. Let us borrow that <hi>Triſagium</hi> of the Seraphims, <note place="margin">Iſai. 6.3.</note> 
+                     <hi>Holy, holy, holy, is the Lord of hoſtes, the earth is full of his glory.</hi> That <hi>Doxology</hi> of the heavenly Militia; <note place="margin">Luk. 2.14.</note> 
+                     <hi>Glory to God in the high<g ref="char:EOLhyphen"/>eſt, in earth peace, good will towards men.</hi> That <hi>Adoration</hi> of the four and twenty Elders, <note place="margin">Revel. 4.11.</note> 
+                     <hi>Thou art worthy, O Lord, to receive glory, and honor, and power,</hi> &amp;c. That <hi>Hallelujah</hi> of the heavenly Chorus, <note place="margin">Revel. 19.1.</note> 
+                     <hi>Salvation, and glory, and honor, and power unto the Lord our God.</hi> Let our hearts warm the bleſſing, let our tongues declare the work, let the worker be hallowed in our lives, that our greateſt care being to walk worthy of his bounty, it may pleaſe him to perpetu<g ref="char:EOLhyphen"/>ate his loving kindneſs towards us, through Jeſus Chriſt our Lord; to whom with the Father and the Holy Ghoſt, be all honor, glory, praiſe and thanksgiving, now and ever. Amen.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35383:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
